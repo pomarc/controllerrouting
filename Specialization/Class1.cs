@@ -30,7 +30,7 @@ namespace Specialization.Controllers
             c.Add("stoccarda");
             c.Add("stoffredda");
             c.Add("stoccafisso");
-            c.Add("stoccazzo");
+          
             return new ContentResult() { Content = c.ToString() }  ;
         }
     }
