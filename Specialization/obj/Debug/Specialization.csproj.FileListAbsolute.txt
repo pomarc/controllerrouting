@@ -1,0 +1,9 @@
+g:\progetti\testvari\ControllerInheritance\Specialization\bin\Debug\Specialization.dll
+g:\progetti\testvari\ControllerInheritance\Specialization\bin\Debug\Specialization.pdb
+g:\progetti\testvari\ControllerInheritance\Specialization\bin\Debug\System.Web.Mvc.dll
+g:\progetti\testvari\ControllerInheritance\Specialization\bin\Debug\Microsoft.Web.Infrastructure.dll
+g:\progetti\testvari\ControllerInheritance\Specialization\bin\Debug\System.Web.Mvc.xml
+g:\progetti\testvari\ControllerInheritance\Specialization\obj\Debug\Specialization.csprojResolveAssemblyReference.cache
+g:\progetti\testvari\ControllerInheritance\Specialization\obj\Debug\Specialization.csproj.CoreCompileInputs.cache
+g:\progetti\testvari\ControllerInheritance\Specialization\obj\Debug\Specialization.dll
+g:\progetti\testvari\ControllerInheritance\Specialization\obj\Debug\Specialization.pdb
